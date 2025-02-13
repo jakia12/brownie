@@ -51,8 +51,8 @@ li.nav-item {
 }
 /* hero section */
 .img_box img {
-  width: 573px;
-  height: 767px;
+	width: 736px;
+	height: 767px;
 }
 
 h2.ttl {
@@ -271,8 +271,9 @@ button.copy_btn {
 }
 
 .abt_wrapper {
-  width: 90%;
-  margin: 0 auto;
+	max-width: 90%;
+  width: 76%;
+	margin: 0 auto;
 }
 
 .ab_ttl {
